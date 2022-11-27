@@ -1,2 +1,2 @@
 # PGPKEYS
-Collection PGP Keys
+Collection GPG Keys
